@@ -1,0 +1,26 @@
+{
+  "protocolVersion": "1.0",
+  "name": "agripp87.github.io agent",
+  "description": "Test agent",
+  "url": "https://agripp87.github.io/a2a",
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false
+  },
+  "skills": [
+    {
+      "id": "parse",
+      "name": "Parse",
+      "description": "Parses things",
+      "tags": [
+        "parsing"
+      ]
+    }
+  ],
+  "signatures": [
+    {
+      "protected": "eyJhbGciOiJFUzI1NiIsImp3ayI6eyJrdHkiOiJFQyIsIngiOiJXY0JGblp1a2ljOEdrbUZtek9RR0tFWmhJUlVOYUlkQTJYTjJnZnVra05FIiwieSI6IlJvcVJROEVYWXpKZktkMGJrTXRENXdjYXhBbndaWm51TWllcy1FUGxodVUiLCJjcnYiOiJQLTI1NiIsImFsZyI6IkVTMjU2IiwidXNlIjoic2lnIn19",
+      "signature": "skN28crwZL33OKghkSy-5ZPm-9d3GN5mBE2GfIvNF-jtRoEHOrMl0TC4EYR8Gyje6H6YhAe382u0pNjsLpe35A"
+    }
+  ]
+}
