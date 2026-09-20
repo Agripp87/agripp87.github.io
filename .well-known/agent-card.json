@@ -19,8 +19,8 @@
   ],
   "signatures": [
     {
-      "protected": "eyJhbGciOiJFUzI1NiIsImp3ayI6eyJrdHkiOiJFQyIsIngiOiJjYzgxR3JDdFprN0JuR0RLR042UlJWdUpsNWtMbFhob28yR2gzOW9RbmpjIiwieSI6ImNheE5mcFd3Q1cwa0lfTXI1dktYdmJWcFJWRGd2MWVCdFV5V3hfU2djOGciLCJjcnYiOiJQLTI1NiIsImFsZyI6IkVTMjU2IiwidXNlIjoic2lnIn19",
-      "signature": "tCTqOA_6qeI4jcR3Tq2AoyS2qstAZB_rQ1YEl5XelhqLy2BNmSsu-ooVeJLcx9875iRKh39GAWapASOaXz6Fdg"
+      "protected": "eyJhbGciOiJFUzI1NiIsImp3ayI6eyJrdHkiOiJFQyIsIngiOiJwdVQ5Zk9paHItYXFGWi11Q01qeTBvQTBLaFloVjJwVVNidENONGNyZFB3IiwieSI6IllQTy1EYlJVcTRZN21YbW0wcW9YNktVMS1qVUMzbUZsZXozc1ZsSjFXbUUiLCJjcnYiOiJQLTI1NiIsImFsZyI6IkVTMjU2IiwidXNlIjoic2lnIn19",
+      "signature": "9l2m0V6ZwDd9-1nHCyCOwl_mQz5sfXxlpTM5azVgyDCMUvrD61dALGJxkAH_DlURh1PWaO_VY22TlHLhx-ukOA"
     }
   ]
 }
